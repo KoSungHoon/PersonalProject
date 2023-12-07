@@ -362,6 +362,7 @@
 "Assets/Script/AiPerception.cs"
 "Assets/Script/AnimEvent.cs"
 "Assets/Script/CharacterProperty.cs"
+"Assets/Script/Monster/Monster.cs"
 "Assets/Script/MoveMent.cs"
 "Assets/Script/Player/Player.cs"
 "Assets/Script/Player/PlayerBattleStat.cs"

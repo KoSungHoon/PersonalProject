@@ -8,6 +8,4 @@ public class MoveMent : CharacterProperty,IFindEnemy
     {
 
     }
-
-
 }
